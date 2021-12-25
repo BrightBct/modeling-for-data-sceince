@@ -1,0 +1,22 @@
+Attribute,Data_Type,Description
+No.,integer,ลำดับ
+ProjectID,integer,รหัสโครงการ
+ProjectName,Text,ชื่อโครงการ
+ProjectGroup,Text,กลุ่มโครงการ
+ProjectYearSubmit,integer,ปีงบประมาณ
+PUserID,integer,รหัสข้อมูลนักวิจัย
+DepartmentTH,Text,หน่วยงาน
+FacultyTH,Text,คณะ/กอง/สถาบัน/สำนัก
+MinistryTH,Text,ชื่อหน่วยงานสังกัดกระทรวง
+OrganizationTH,Text,หน่วยงานภายใต้กระทรวง
+Sex,Text,เพศ
+Age,integer,อายุ
+AgeRange,Text,ช่วงอายุ
+Patent,Text,มีสิทธิบัตร
+Publication,Text,มีผลงานตีพิมพ์
+Poject5Y,Text,โครงการย้อนหลัง 5 ปี
+YoungResearcher,Text,นักวิจัยรุ่นใหม่ (อายุต่ำกว่า 45 ปี)
+ProvinceTH,Text,จังหวัดหน่วยงาน
+Region,Text,ภาคหน่วยงาน
+Expert,Text,ความเชี่ยวชาญ
+AcademicPositionTH,Text,ตำแหน่งทางวิชาการ
